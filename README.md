@@ -1,5 +1,5 @@
-# Flexify
-FlexyFi is a decentralized finance (DeFi) application that leverages modern blockchain technologies to provide seamless management of USDe, an omnichain stablecoin. Users can store, pay, receive, and withdraw funds with a sleek and user-friendly interface. The app integrates LayerZero (OFT) and Goldsky for blockchain interoperability and transaction monitoring.
+# FLEXYFI (Flexibly Exchange Your Finance)
+FLEXYFI is a decentralized finance (DeFi) application that leverages modern blockchain technologies to provide seamless management of USDe, an omnichain stablecoin. Users can store, pay, receive, and withdraw funds with a sleek and user-friendly interface. The app integrates LayerZero (OFT) for blockchain interoperability and seamless token-swapping.
 
 
 Features
@@ -7,10 +7,6 @@ Features
 🔗 Blockchain Integration
 
 Swap supported stablecoins (e.g., USDC from Phantom Wallet) to USDe using LayerZero's OFT (Omnichain Fungible Token) technology.
-
-Monitor transactions in real time using Goldsky.
-
-Airdrop NFTs for qualifying seller transactions.
 
 💰 Balance Management
 
